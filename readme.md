@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Irfan Ali</h1>
 <p align="center">
-  <strong>Junior DevOps Engineer</strong><br>
+  <strong> DevOps Engineer</strong><br>
   Building Resilient Systems • Automating Workflows • Cloud Optimization
 </p>
 
@@ -46,4 +46,5 @@ Results-driven DevOps Engineer with a focus on streamlining the software develop
 </p>
 
 <p align="center"><i>"If it's worth doing twice, it's worth automating."</i></p>
+
 
